@@ -1,0 +1,51 @@
+EST PLAN
+OpenCart Demo Website
+1. Objective
+To verify that the OpenCart demo website functions correctly by performing manual functional testing.
+________________________________________
+2. Scope
+In Scope:
+•	Login (invalid)
+•	Product search
+•	Add to cart
+•	View cart
+Out of Scope:
+•	Payment gateway
+•	Performance testing
+________________________________________
+3. Test Strategy
+•	Testing Type: Manual Testing
+•	Testing Level: System Testing
+•	Testing Technique: Black Box Testing
+________________________________________
+4. Test Environment
+•	OS: Windows 10
+•	Browser: Google Chrome
+•	Application URL: https://demo.opencart.com/
+________________________________________
+5. Entry & Exit Criteria
+Entry Criteria
+•	Website accessible
+•	Test cases prepared
+Exit Criteria
+•	All test cases executed
+•	No critical defects open
+________________________________________
+6. Test Deliverables
+•	Test Plan
+•	Test Cases
+•	Bug Report
+________________________________________
+7. Tools Used
+•	MS Excel
+•	Chrome Browser
+•	GitHub
+________________________________________
+8. Risks & Mitigation
+Risk	Mitigation
+Website down	Resume testing later
+Time constraint	Test core features only
+________________________________________
+9. Approvals
+This test plan is created for learning and resume purposes.
+
