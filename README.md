@@ -79,3 +79,38 @@ This screenshot is captured during manual testing to provide proof of applicatio
 ---
 
 ## 📁 Project Structure
+📊 Test Cases (Excel)
+
+The detailed manual test cases for the OpenCart demo website are documented in an Excel file.
+
+File: OpenCart_Test_Cases_Filled.xlsx
+
+Contents:
+
+Scenario ID & Description
+
+Test Case ID & Title
+
+Preconditions
+
+Steps to Execute
+
+Expected Result
+
+Actual Result
+
+Status & Priority
+
+These test cases cover:
+
+Home page validation
+
+Product search
+
+Add to cart
+
+View cart
+
+Invalid login scenarios
+
+This Excel file demonstrates hands-on experience with industry-standard test case documentation.
