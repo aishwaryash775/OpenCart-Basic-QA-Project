@@ -19,7 +19,8 @@ This project is created for **learning, practice, and resume showcase** purposes
 ## 🖼️ Application Screenshot (Testing Proof)
 
 ### OpenCart Home Page
-![OpenCart Home Page](Screenshot/opencarthomepage.png)
+![OpenCart Home Page](screenshot/opencarthomepage.png)
+
 
 This screenshot is captured during manual testing to provide proof of application access and testing activity.
 
