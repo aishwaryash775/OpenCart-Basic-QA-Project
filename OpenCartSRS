@@ -1,0 +1,107 @@
+SOFTWARE REQUIREMENT SPECIFICATION (SRS)
+OpenCart Demo Website – Project #1
+1. Introduction
+The purpose of this document is to describe the functional requirements of the OpenCart demo e-commerce website. This document is created for manual testing and learning purposes.
+________________________________________
+2. Objective
+The objective of this project is to perform manual testing on an e-commerce platform to ensure that core functionalities such as login, product search, add to cart, and checkout work correctly.
+________________________________________
+3. Scope
+The scope of testing includes:
+•	User login (invalid credentials)
+•	Product search
+•	Add to cart
+•	View cart
+•	Checkout page navigation (no payment)
+Out of Scope:
+•	Payment gateway testing
+•	Performance testing
+•	Backend/database testing
+________________________________________
+4. Target Audience
+•	End users browsing products
+•	QA testers validating application functionality
+________________________________________
+
+5. Functional Requirements
+Requirement	Description	Priority	Acceptance Criteria
+Login	User should be able to login	High	Error message shown for invalid login
+Registration	User can register an account	High	Account created successfully
+Product Search	User can search products	High	Relevant products displayed
+Add to Cart	User can add product to cart	High	Product visible in cart
+Checkout	User can proceed to checkout	Medium	Checkout page displayed
+________________________________________
+6. User Stories
+Login
+•	As a user, I want to login so that I can access my account.
+Cart
+•	As a customer, I want to add products to my cart.
+________________________________________
+7. Assumptions & Limitations
+•	OpenCart demo website is used
+•	Payment is not real
+•	Manual testing only
+________________________________________
+8. Conclusion
+This SRS document acts as a base reference for manual testing activities on the OpenCart demo website.
+________________________________________
+✅ Now Save as PDF:
+File → Save As → PDF
+Name it: OpenCart_SRS.pdf
+________________________________________
+✅ STEP 2: CREATE TEST PLAN (PDF)
+📄 Open new Word / Google Docs file
+File name: OpenCart_Test_Plan.docx
+🔽 COPY–PASTE BELOW ⬇️
+________________________________________
+TEST PLAN
+OpenCart Demo Website
+1. Objective
+To verify that the OpenCart demo website functions correctly by performing manual functional testing.
+________________________________________
+2. Scope
+In Scope:
+•	Login (invalid)
+•	Product search
+•	Add to cart
+•	View cart
+Out of Scope:
+•	Payment gateway
+•	Performance testing
+________________________________________
+3. Test Strategy
+•	Testing Type: Manual Testing
+•	Testing Level: System Testing
+•	Testing Technique: Black Box Testing
+________________________________________
+4. Test Environment
+•	OS: Windows 10
+•	Browser: Google Chrome
+•	Application URL: https://demo.opencart.com/
+________________________________________
+5. Entry & Exit Criteria
+Entry Criteria
+•	Website accessible
+•	Test cases prepared
+Exit Criteria
+•	All test cases executed
+•	No critical defects open
+________________________________________
+6. Test Deliverables
+•	Test Plan
+•	Test Cases
+•	Bug Report
+________________________________________
+7. Tools Used
+•	MS Excel
+•	Chrome Browser
+•	GitHub
+________________________________________
+8. Risks & Mitigation
+Risk	Mitigation
+Website down	Resume testing later
+Time constraint	Test core features only
+________________________________________
+9. Approvals
+This test plan is created for learning and resume purposes.
+
